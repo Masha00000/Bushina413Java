@@ -1,8 +1,8 @@
-package lab6;
+package Lab6;
 
 import java.util.Scanner;
 
-public class lab6zad2 {
+public class Zad2 {
     public static void main(String[] args) {
 // Вводим данные от пользователя
         Scanner scanner = new Scanner(System.in);
